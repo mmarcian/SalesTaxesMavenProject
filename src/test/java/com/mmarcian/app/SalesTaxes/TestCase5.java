@@ -1,8 +1,6 @@
 package com.mmarcian.app.SalesTaxes;
 
 
-import static org.junit.Assert.assertEquals;
-
 import java.math.BigDecimal;
 
 import com.mmarcian.app.SalesTaxes.domain.Product;
