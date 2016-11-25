@@ -1,0 +1,10 @@
+/home/mmarciano/MVNprj/SalesTaxesProject/SalesTaxes/src/main/java/com/mmarcian/app/SalesTaxes/service/OrderPrinter.java
+/home/mmarciano/MVNprj/SalesTaxesProject/SalesTaxes/src/main/java/com/mmarcian/app/SalesTaxes/domain/OrderLine.java
+/home/mmarciano/MVNprj/SalesTaxesProject/SalesTaxes/src/main/java/com/mmarcian/app/SalesTaxes/domain/PurchaseOrder.java
+/home/mmarciano/MVNprj/SalesTaxesProject/SalesTaxes/src/main/java/com/mmarcian/app/SalesTaxes/domain/BaseTax.java
+/home/mmarciano/MVNprj/SalesTaxesProject/SalesTaxes/src/main/java/com/mmarcian/app/SalesTaxes/App.java
+/home/mmarciano/MVNprj/SalesTaxesProject/SalesTaxes/src/main/java/com/mmarcian/app/SalesTaxes/domain/Product.java
+/home/mmarciano/MVNprj/SalesTaxesProject/SalesTaxes/src/main/java/com/mmarcian/app/SalesTaxes/domain/ImportTax.java
+/home/mmarciano/MVNprj/SalesTaxesProject/SalesTaxes/src/main/java/com/mmarcian/app/SalesTaxes/domain/SalesTax.java
+/home/mmarciano/MVNprj/SalesTaxesProject/SalesTaxes/src/main/java/com/mmarcian/app/SalesTaxes/domain/ProductType.java
+/home/mmarciano/MVNprj/SalesTaxesProject/SalesTaxes/src/main/java/com/mmarcian/app/SalesTaxes/service/Utils.java
